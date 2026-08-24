@@ -147,3 +147,10 @@ Confidence Score: 0.9995708
 مما يدل على دقة عالية جدًا في التمييز بين الفئتين.
 
 ---
+
+## 📚 المصادر
+
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) — المنصة المستخدمة لتدريب النموذج وتصديره.
+- [Google Colab](https://colab.research.google.com/) — البيئة المستخدمة لتشغيل الكود واختبار النموذج.
+
+---
